@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Md.%20Ayon%20Fardous&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineer%20%7C%20Flutter%20Developer%20%7C%20Full-Stack%20%7C%20ERP%20Integration&descSize=16&descAlignY=58" alt="Md. Ayon Fardous - Software Engineer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Ayon%20Fardous&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineer%20%7C%20Flutter%20Developer%20%7C%20Full-Stack%20%7C%20ERP%20Integration&descSize=16&descAlignY=58" alt="Md. Ayon Fardous - Software Engineer" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&height=40&lines=Building+production-ready+mobile+%26+web+apps;Connecting+Flutter+apps+with+ERP+%26+enterprise+systems;Designing+REST+APIs+and+SQL+data+workflows;Automating+business+processes+with+AI" alt="Typing animation" />
 
