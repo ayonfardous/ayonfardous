@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Md.%20Ayon%20Fardous&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineer%20%7C%20Flutter%20%7C%20Full-Stack%20Development&descSize=17&descAlignY=58" alt="Md. Ayon Fardous - Software Engineer | Flutter | Full-Stack Development" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Ayon%20Fardous&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineer%20%7C%20Flutter%20%7C%20Full-Stack%20Development&descSize=17&descAlignY=58" alt="Md. Ayon Fardous - Software Engineer | Flutter | Full-Stack Development" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&height=40&lines=Building+production-grade+mobile%2C+kiosk+%26+web+apps;7+production+apps+across+POS%2C+trading+%26+supply+chain;Flutter+%7C+Dart+%7C+PHP+%7C+MySQL+%7C+SQL+Server;Offline-first+%7C+API-driven+%7C+reliable+by+design" alt="Typing animation" />
 
